@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 26th February 2018 9:29 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.32
+WORDPRESS:	4.9.4
+PHP INFO:	7.1.6 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 20MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20180226_sustainabledevelopmentresearc_075227f7837938b89121180226212856_database.sql 
+SQL FILE SIZE: 3.53MB (3703171) 
+SQL FILE TIME: 2018-02-26 21:29:48 
+SQL RUNTIME: 0.27 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/lwilson/Development Sites/sdresearchni 
+ARCHIVE FILE: 20180226_sustainabledevelopmentresearc_075227f7837938b89121180226212856_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	134.95MB 
+STATS:	Dirs 753 | Files 6,188 
+SQL ADDED: 20180226_sustainabledevelopmentresearc_075227f7837938b89121180226212856_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6941
+    [filename] => /Users/lwilson/Development Sites/sdresearchni/wp-snapshots/tmp/20180226_sustainabledevelopmentresearc_075227f7837938b89121180226212856_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 71.1MB 
+ARCHIVE RUNTIME: 15.59 sec. 
+MEMORY STACK: 24MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Users/lwilson/Development Sites/sdresearchni/wp-snapshots/tmp/20180226_sustainabledevelopmentresearc_075227f7837938b89121180226212856_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 3.53MB 
+Installer File: 444.04KB 
+Archive File: 71.1MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 17.72 sec.
+PEAK PHP MEMORY USED: 26MB
+DONE PROCESSING => 20180226_sustainabledevelopmentresearc 26th February 2018 9:30 pm
+ 
